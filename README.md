@@ -9,4 +9,4 @@ The Covid-19 catastrophe has been rapidly developing with no signs of stopping a
 
 ## Conclusion
 
-According to this study, 
+Using this study, we can determine which counties are at risk. Using the bubble map plotting at-risk populations (<18 and 60+) and low hospital beds, we can identify outliers in the graph and decide what to do for them. Additionally, using the heatmap, we can notice trends between Covid-19 and various factors. However, we must also note that some factors not included in the study also affect people's wellbeing and the development of the crisis, such as population density and whether people are practicing good hygiene and social distancing protocols. We also note that this is a developing situation with different states at different stages of the curve so whatever actions taken to aid states and counties must take that into account.
